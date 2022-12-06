@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f3a318ae.css",
+    "main.js": "/static/js/main.c72a6466.js",
+    "static/media/comida2.webp": "/static/media/comida2.ac0a3e07adca3b4aa349.webp",
+    "static/media/phoneandchocolate.png": "/static/media/phoneandchocolate.e7c9731c648cf8e0d5f1.png",
+    "static/media/phoneandfood.png": "/static/media/phoneandfood.56a9b83377944ced2aac.png",
+    "static/media/pizza.jpg": "/static/media/pizza.38e3b780c3059b4e0ac7.jpg",
+    "static/media/Tryon.png": "/static/media/Tryon.e40aa44df01c7a82d604.png",
+    "static/media/playstore.png": "/static/media/playstore.f88d6b6e3ab0bdc0f6d3.png",
+    "index.html": "/index.html",
+    "main.f3a318ae.css.map": "/static/css/main.f3a318ae.css.map",
+    "main.c72a6466.js.map": "/static/js/main.c72a6466.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a318ae.css",
+    "static/js/main.c72a6466.js"
+  ]
+}
